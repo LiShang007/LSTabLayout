@@ -1,0 +1,3 @@
+rootProject.name='LSTabLayout'
+include ':app'
+include ':tablayout'
